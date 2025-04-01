@@ -1,0 +1,15 @@
+{
+    "name": "contiguous-array-debug",
+    "version": "1.0.0",
+    "description": "Debug setup for contiguous array algorithm",
+    "main": "dist/contiguous_array.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/contiguous_array.js",
+        "watch": "tsc -w"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "@types/node": "^20.0.0"
+    }
+} 
